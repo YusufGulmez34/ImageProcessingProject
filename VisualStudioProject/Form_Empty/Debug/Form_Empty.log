@@ -1,6 +1,0 @@
-﻿  MyForm.cpp
-C:\Users\walte\Desktop\imageProcessing\Form_Empty\Imge.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\walte\Desktop\imageProcessing\Form_Empty\HelperCodes.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  HelperCodes.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
-  HelperCodes.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Form_Empty.vcxproj -> C:\Users\walte\Desktop\imageProcessing\Debug\Form_Empty.exe
